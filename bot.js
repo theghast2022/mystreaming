@@ -5,7 +5,7 @@ client.on('ready', () => {
  console.log("Bot Online"); 
 console.log("log");
 });
-var prefix = "$";
+var prefix = "T";
 
 
 
